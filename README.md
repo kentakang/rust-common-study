@@ -16,3 +16,7 @@ This repository is practice results of [Understand common concepts in Rust lectu
 
 * Have your Rust development environment already set up.
 * Know how to create, edit, and run Rust code by using Cargo.
+
+## Practive Results
+
+1. [Overview of Rust program structure](./program-structure)
