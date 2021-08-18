@@ -24,3 +24,4 @@ This repository is practice results of [Understand common concepts in Rust lectu
 3. [Learn about data types](./data-types)
 4. [Use if/else conditional expressions](./if-else-expressions)
 5. [Learn about structs and enums](./structs-enums)
+6. [Work with functions in Rust](./functions)
