@@ -22,3 +22,4 @@ This repository is practice results of [Understand common concepts in Rust lectu
 1. [Overview of Rust program structure](./program-structure)
 2. [Create and use variables](./variables)
 3. [Learn about data types](./data-types)
+4. [Use if/else conditional expressions](./if-else-expressions)
