@@ -25,4 +25,4 @@ This repository is practice results of [Understand common concepts in Rust lectu
 4. [Use if/else conditional expressions](./if-else-expressions)
 5. [Learn about structs and enums](./structs-enums)
 6. [Work with functions in Rust](./functions)
-7. [Exercise: Functions, structs, and enums]('./exercise-functions)
+7. [Exercise: Functions, structs, and enums](./exercise-functions)
