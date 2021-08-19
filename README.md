@@ -29,3 +29,4 @@ This repository is practice results of [Understand common concepts in Rust lectu
 8. [Use collection types](./collection-types)
 9. [Iterate through data with loops](./loops)
 10. [Exercise: Collections, conditions, and loops](./exercise-indexing)
+11. [Exercise: Complex expressions, and hash maps](./exercise-hashmaps)
