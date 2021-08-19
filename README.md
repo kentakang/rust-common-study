@@ -28,3 +28,4 @@ This repository is practice results of [Understand common concepts in Rust lectu
 7. [Exercise: Functions, structs, and enums](./exercise-functions)
 8. [Use collection types](./collection-types)
 9. [Iterate through data with loops](./loops)
+10. [Exercise: Collections, conditions, and loops](./exercise-indexing)
